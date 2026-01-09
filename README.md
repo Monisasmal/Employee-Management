@@ -47,6 +47,7 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
 
 * Displays **Total Employees**
 * Status indication (Active / Inactive)
+* No backend is used; all data is managed via LocalStorage.
 
 ### 🖨️ Print Functionality
 
