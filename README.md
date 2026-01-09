@@ -82,3 +82,29 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
 ✔ Print functionality
 
 ✔ Clean UI and code structure
+
+---
+
+
+## Preview
+<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/7819acd7-f225-463e-9627-a1f197e4d1bb" />
+<img width="1358" height="714" alt="image" src="https://github.com/user-attachments/assets/9d0c374c-97cb-445a-adae-31eeb476a393" />
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/dc1c26d9-9d88-4c5d-8dbe-e757302729f5" />
+<img width="1328" height="276" alt="image" src="https://github.com/user-attachments/assets/805362a6-567f-4e71-b96b-cdd90d77c926" />
+
+---
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
