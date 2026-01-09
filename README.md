@@ -8,6 +8,10 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
 
 ---
 
+## 🌐 [Live Demo](https://employee-management-orpin-three.vercel.app/)
+
+---
+
 ## 🚀 Features Implemented
 
 ### 🔐 Authentication
@@ -61,5 +65,19 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
 
 ---
 
+## ✅ Assignment Checklist Status
+✔ Login & protected dashboard
 
-Thank you for reviewing my submission.
+✔ Employee CRUD operations
+
+✔ Image upload handling
+
+✔ Search & filtering
+
+✔ Active / Inactive toggle
+
+✔ LocalStorage persistence
+
+✔ Print functionality
+
+✔ Clean UI and code structure
