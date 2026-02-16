@@ -1,4 +1,4 @@
-# Employee Management Dashboard (React.js)
+# Employee Management Dashboard (ReactJS)
 
 ## 📌 Project Overview
 
