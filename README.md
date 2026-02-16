@@ -34,6 +34,8 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
 * Delete employee with confirmation prompt
 * Employee data stored persistently in **LocalStorage**
 
+---
+
 ### 🔍 Search & Filters
 
 * Search employees by **name**
@@ -43,11 +45,15 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
   * Active / Inactive status
 * Combined filtering supported
 
+---
+
 ### 📊 Dashboard Summary
 
 * Displays **Total Employees**
 * Status indication (Active / Inactive)
 * No backend is used; all data is managed via LocalStorage.
+
+---
 
 ### 🖨️ Print Functionality
 
@@ -67,6 +73,7 @@ The dashboard is accessible **only after login**, ensuring basic authentication 
 ---
 
 ## ✅ Assignment Checklist Status
+
 ✔ Login & protected dashboard
 
 ✔ Employee CRUD operations
